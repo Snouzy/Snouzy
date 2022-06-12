@@ -2,9 +2,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=snouzy.snouzy)
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>hi, i'm [Mathias Bradiceanu](https://snouzy.com/), a passionate self-taught javascript web developer and a freelance developer from France 🇫🇷. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>hi, i'm [Mathias Bradiceanu](https://snouzy.com/), a passionate self-taught from 🇫🇷 since my 14yo. React.JS & ReactNative developer and a freelance since 2019. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:contact@snouzy.com) :)
 - 💬 ask me about anything, i am happy to help;
