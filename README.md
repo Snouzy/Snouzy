@@ -2,12 +2,12 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=snouzy.snouzy)
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>hi, i'm [Mathias Bradiceanu](https://snouzy.com/), a passionate self-taught from 🇫🇷 since my 14yo. React.JS & ReactNative developer and a freelance since 2019. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>hi, i'm [Mathias Bradiceanu](https://snouzy.com/), a passionate self-taught from 🇫🇷 since my 14yo. React.JS & ReactNative developer and a freelance since 2019. My passion for software lies with dreaming up ideas and making them come true with elegant interface & [clean code](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=asc_df_0132350882/?tag=googshopfr-21&linkCode=df0&hvadid=194958182558&hvpos=&hvnetw=g&hvrand=1820553836155309933&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9055981&hvtargid=pla-82950747900&psc=1) best practices.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:contact@snouzy.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 any freelance work? contact me, [email](mailto:contact@snouzy.com) :)
+- 💬 or just ask me about anything, i'll be happy to help though a codesandox, meet or anything else !
 
 **⚡things i use:**  
 <p>
