@@ -36,11 +36,3 @@ if you like what i do, maybe consider buying me a coffee/tea 😊 👉👈
 
 <a href="https://www.buymeacoffee.com/snouzy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-
-📈 **my github stats (from my 2 accounts):**
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=snouzy&show_icons=true&count_private=true" alt="snouzy" />
-<img src="https://github-readme-stats.vercel.app/api?username=mathias-bradi&show_icons=true&count_private=true" alt="mathias-bradi" />
-</p>
-
