@@ -1,6 +1,4 @@
-<b>If you want to see the code of one of my private repo, feel free to ask me. (fXck cribbers😊)</b>
-
-<p><a href="https://twitter.com/BradiceanuM" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mathias-bradiceanu-3410b1ab/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<b>If you want to see the code of one of my private repo, feel free to ask me.</b>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=snouzy.snouzy)
 
@@ -9,7 +7,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? contact me, [email](mailto:contact@snouzy.com) :)
-- 💬 or just ask me about anything, i'll be happy to help though a codesandox, meet or anything else !
+- 💬 or just ask me about anything, i'll be happy to help !
 
 **⚡things i use:**  
 <p>
@@ -31,8 +29,3 @@
   <img alt="mySQL" src="https://img.shields.io/badge/-SQL-EA8C0F?style=flat-square&logo=mySQL&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-git-000000?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-if you like what i do, maybe consider buying me a coffee/tea 😊 👉👈
-
-<a href="https://www.buymeacoffee.com/snouzy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
