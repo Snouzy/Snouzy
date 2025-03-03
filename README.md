@@ -1,8 +1,7 @@
-![](https://visitor-badge.glitch.me/badge?page_id=snouzy.snouzy)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snouzy&theme=tokyonight" alt="GitHub Streak" width="50%"/>
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 
-### Hi, I'm [Mathias Bradiceanu](https://snouzy.com/) 👋  
+### Hi, I'm [Mathias Bradiceanu](https://snouzy.com/) <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>  
 
 I'm a passionate **self-taught developer** from 🇫🇷, coding since I was 14.
 
