@@ -1,13 +1,19 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=snouzy.snouzy)
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>hi, i'm [Mathias Bradiceanu](https://snouzy.com/), a passionate self-taught from 🇫🇷 since my 14yo. React.JS & ReactNative developer and a freelance since 2019. Indie hacker & OSINT in my free time. 
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>  
+### Hi, I'm [Mathias Bradiceanu](https://snouzy.com/) 👋  
+
+I'm a passionate **self-taught developer** from 🇫🇷, coding since I was 14.  
+💻 **React.js & React Native developer** | Freelance since 2019  
+🚀 **Indie hacker & OSINT enthusiast** in my free time  
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? contact me, [email](mailto:contact@snouzy.com) :)
-- 💬 or just ask me about anything, i'll be happy to help !
 
-**⚡things i use:**  
+- 💼 Looking for a freelance dev? [Let's talk](mailto:contact@snouzy.com) 📩  
+- 💬 Got a question? Always happy to help!  
+
+### ⚡ Tech I use:  
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React-Native" src="https://img.shields.io/badge/-ReactNative-45b8d8?style=flat-square&logo=react&logoColor=white" />
