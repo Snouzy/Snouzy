@@ -1,9 +1,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=snouzy.snouzy)
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>  
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
+
 ### Hi, I'm [Mathias Bradiceanu](https://snouzy.com/) 👋  
 
-I'm a passionate **self-taught developer** from 🇫🇷, coding since I was 14.  
+I'm a passionate **self-taught developer** from 🇫🇷, coding since I was 14.
+
 💻 **React.js & React Native developer** | Freelance since 2019  
 🚀 **Indie hacker & OSINT enthusiast** in my free time  
 
