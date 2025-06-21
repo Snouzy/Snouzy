@@ -19,7 +19,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snouzy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
@@ -28,25 +28,7 @@
 
 
 ---
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snouzy&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snouzy&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-
-### 🤝 Let's Connect!
+### 🤝 Let's connect!
 
 <div align="center">
   <a href="mailto:contact@snouzy.com">
