@@ -1,12 +1,15 @@
-# Hi there, I'm [m6b9](https://snouzy.com/) 👋
+# Hi there, I'm [m6b9](https://snouzy.com/) 🫡
+
+
+
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Freelancer;Indie+Hacker;Reader" alt="Typing SVG" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snouzy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 ---
 
-### 🚀 About Me
 
 - 💻 **Self-taught developer** from 🇫🇷, coding since I was 14
 - ⚛️ **React.js & React Native specialist** specializing in sports apps
@@ -17,17 +20,9 @@
 
 <br clear="right"/>
 
----
-
-### 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snouzy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 
 ---
-### 🤝 Let's connect!
 
 <div align="center">
   <a href="mailto:contact@snouzy.com">
