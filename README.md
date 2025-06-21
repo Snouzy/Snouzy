@@ -11,12 +11,10 @@
 ---
 
 
-- 💻 **Self-taught developer** from 🇫🇷, coding since I was 14
-- ⚛️ **React.js & React Native specialist** specializing in sports apps
-- 🏃‍♂️ Started as a **freelancer in 2019**, now I live from my **SaaS in sports**
+- 💻 from 🇫🇷, coding since 14yo
+- ⚛️ **Love the JS fullstack world**, specializing in sports apps
+- 🫡 Started as a **electronic warfare solider**, turned **freelancer in 2019**, now I live from my **SaaS in sports**
 - 🚀 Creator of **[workout.cool](https://workout.cool)** - check it out below!
-- 📧 Interested in sports tech? [Let's connect!](mailto:contact@snouzy.com)
-- 💬 Always happy to help and share knowledge!
 
 <br clear="right"/>
 
