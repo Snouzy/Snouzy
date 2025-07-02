@@ -13,7 +13,7 @@
 
 - 💻 from 🇫🇷, coding since 14yo
 - ⚛️ **Love the JS fullstack world**, specializing in sports apps
-- 🫡 Started as a **electronic warfare solider**, turned **freelancer in 2019**
+- 🫡 Started as a **electronic warfare soldier**, turned **freelancer in 2019**
 - 🚀 Creator of **[workout.cool](https://workout.cool)** - check it out below!
 
 <br clear="right"/>
